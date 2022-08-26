@@ -51,10 +51,11 @@ In this project,  a clustering task was done via <i>DBSCN</i>. With density base
 Density-based spatial clustering of applications with noise** (**DBSCAN**) is a [data clustering](https://en.wikipedia.org/wiki/Data_clustering "Data clustering") algorithm proposed by Martin Ester, Hans-Peter Kriegel, Jörg Sander and Xiaowei Xu in 1996. 
 
 <div align=center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/DBSCAN-Illustration.svg" width=500 height=300 alt="miro.medium.com"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/DBSCAN-Illustration.svg" width=350 height=300 alt="miro.medium.com"/>
 </div>
 <small>Fig.3 -  Wikipedia</small>
 
+<br>
 
 It is a [density-based clustering](https://en.wikipedia.org/wiki/Cluster_analysis#Density-based_clustering "Cluster analysis") non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed together (points with many nearby neighbors "Fixed-radius near neighbors", marking as outliers points that lie alone in low-density regions (whose nearest neighbors are too far away). DBSCAN is one of the most common clustering algorithms and also most cited in scientific literature.
 
