@@ -1,7 +1,6 @@
 <h1  align=center><font  size = 5>Clustering Significant Earthquakes in Japan with DBSCN</font></h1>
 
-
-<img  src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUycfdaMMr1k/v1/-1x-1.jpg"  width=1000  height=430  alt="https://www.bloomberg.com/">
+<img  src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUycfdaMMr1k/v1/-1x-1.jpg"  width=1000  height=450  alt="https://www.bloomberg.com/">
 
 <br>
 
@@ -10,7 +9,6 @@
 <h3>Context</h3>
 
 <p>The National Earthquake Information Center (NEIC) determines the location and size of all significant earthquakes that occur worldwide and disseminates this information immediately to national and international agencies, scientists, critical facilities, and the general public. The NEIC compiles and provides to scientists and to the public an extensive seismic database that serves as a foundation for scientific research through the operation of modern digital national and global seismograph networks and cooperative international agreements. The NEIC is the national data center and archive for earthquake information.</p>
-
 
 <h3>Content</h3>
 
@@ -42,22 +40,11 @@ You can download or take a look at original website of the dataset: [Kaggle](htt
 
 <p>CC BY-SA 4.0</p>
 
-<h3>Sources</h3>
-
-<ul>
-
-<li><a href="https://www.kaggle.com/datasets/usgs/earthquake-database">Kaggle</a></li>
-
-<li><a href="https://www.bloomberg.com/news/articles/2019-06-18/magnitude-6-8-quake-hits-off-japan-tsunami-advisory-issued">Bloomberg</a></li>
-
-</ul>
-
 ## Statement
 
 In this project,  a clustering task was done via <i>DBSCN</i>. With density based clustering, we were trying to classify or make a clusters based on several parameters (based of their location, earthquake depth and magnitude).
 
 <br>
-
 
 ## About Clustering Model
 
