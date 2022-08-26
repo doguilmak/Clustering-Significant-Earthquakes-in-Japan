@@ -1,4 +1,4 @@
-<h1  align=center><font  size = 5>Clustering Significant Earthquakes in Japan with DBSCN</font></h1>
+<h1  align=center><font  size = 5>Clustering Significant Earthquakes in Japan with DBSCAN</font></h1>
 
 <img  src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUycfdaMMr1k/v1/-1x-1.jpg"  width=1000  height=450  alt="https://www.bloomberg.com/">
 
