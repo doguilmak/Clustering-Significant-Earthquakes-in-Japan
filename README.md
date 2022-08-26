@@ -55,7 +55,7 @@ Density-based spatial clustering of applications with noise** (**DBSCAN**) is a 
 <div align=center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/DBSCAN-Illustration.svg" width=350 height=300 alt="miro.medium.com"/>
 </div>
-<small>Fig.3 -  Wikipedia</small>
+<small>Fig.1 -  Wikipedia</small>
 
 <br>
 
