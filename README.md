@@ -44,7 +44,7 @@ You can download or take a look at original website of the dataset: [Kaggle](htt
 
 ## Statement
 
-In this project,  a clustering task was done via <i>DBSCN</i>. With density based clustering, we were trying to classify or make a clusters based on several parameters (based of their location, earthquake depth and magnitude).
+In this project,  a clustering task was done via <i>DBSCN</i>. With density based clustering, we were trying to classify or make clusters based on several parameters (based of their location, earthquake depth and magnitude).
 
 <br>
 
